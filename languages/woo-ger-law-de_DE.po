@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce German Law 1.0\n"
+"POT-Creation-Date: 2017-09-13 23:43+0100\n"
+"PO-Revision-Date: 2017-09-13 23:43+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: woo-commerce-german-law.php:21
+msgid "German Law"
+msgstr "Deutsches Recht"
+
+#: woo-commerce-german-law.php:35
+msgid "Required Pages"
+msgstr "Notwendige Seiten"
+
+#: woo-commerce-german-law.php:38
+msgid "Shipping cost"
+msgstr "Versandkosten"
+
+#: woo-commerce-german-law.php:39
+msgid ""
+"If defined this page should state shipping costs and will be linked after "
+"each price statement."
+msgstr ""
+"Wenn eine Versandkostenseite angegeben wird, wird diese bei jeder "
+"Preisangabe verlinkt um auf die zusätzlichen Kosten aufmerksam zu machen."
+
+#: woo-commerce-german-law.php:51
+msgid "Terms and conditions"
+msgstr "Allgemeine Geschäfsbedingungen"
+
+#: woo-commerce-german-law.php:52
+msgid ""
+"If you define a terms page the customer will be asked if they accept them "
+"when checking out."
+msgstr ""
+"Wenn eine AGB-Seite angegeben wird, muss der Kunde diese vor der Bezahlung "
+"akzeptieren."
+
+#: woo-commerce-german-law.php:63
+msgid "Cancellation policy"
+msgstr "Widerrufsbelehrung"
+
+#: woo-commerce-german-law.php:64
+msgid ""
+"If defined this page should state the cancellation policy and the customer "
+"will be asked if they accept it together with the terms when checking out. "
+"This choice has no effect if no terms page was selected."
+msgstr ""
+"Wenn eine Widerrufsbelehrungsseite angegeben wird, muss der Kunde diese "
+"zusammen mit den AGB vor der Bezahlung akzeptieren. Diese Wahl hat keine "
+"Auswirkung wenn keine AGB-Seite angegeben wird."
+
+#: woo-commerce-german-law.php:85
+msgid "Pay now with PayPal"
+msgstr "Jetzt mit PayPal bezahlen"
+
+#: woo-commerce-german-law.php:88
+msgid "Pay now"
+msgstr "Jetzt bezahlen"
+
+#: woo-commerce-german-law.php:95
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+"Ich habe die <a href=\"%s\" target=\"_blank\">Allgemeine "
+"Geschäfsbedingungen</a> gelesen und akzeptiert"
+
+#: woo-commerce-german-law.php:100
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a> and also the <a href=\"%s\" target=\"_blank\">cancellation "
+"policy</a>"
+msgstr ""
+"Ich habe die <a href=\"%s\" target=\"_blank\">Allgemeine "
+"Geschäfsbedingungen</a> und die <a href=\"%s\" target=\"_blank"
+"\">Widerrufsbelehrung</a> gelesen und akzeptiert"
+
+#: woo-commerce-german-law.php:121
+#, php-format
+msgid "plus <a href=\"%s\">shipping</a>"
+msgstr "zzgl. <a href=\"%s\">Versand</a>"
+
+#~ msgid ""
+#~ "If defined this page should state the cancellation policy and the "
+#~ "customer will be asked if they accept it together with the terms when "
+#~ "checking out."
+#~ msgstr ""
+#~ "Wenn eine Widerrufsbelehrungsseite angegeben wird, muss der Kunde diese "
+#~ "zusammen mit den AGB vor der Bezahlung akzeptieren. Diese Wahl hat keine "
+#~ "Auswirkung wenn keine AGB-Seite angegeben wird."
+
+#~ msgid "Cancellation policy page"
+#~ msgstr "Widerrufsbelehrung"
+
+#~ msgid "Shipping cost page"
+#~ msgstr "Versandkostenseite"
+
+#~ msgid ""
+#~ "I&rsquo;ve read and accept <a href=\"%s\">terms &amp; conditions</a> and "
+#~ "<a href=\"%s\">cancellation policy</a>"
+#~ msgstr ""
+#~ "Ich habe die <a href=\"%s\" target=\"_blank\">Allgemeinen "
+#~ "Geschäftsbedingungen</a> und die <a href=\"%s\" target=\"_blank"
+#~ "\">Widerrufsbelehrung</a> gelesen und akzeptiert."
