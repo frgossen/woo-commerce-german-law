@@ -87,7 +87,7 @@ function woo_ger_law_gettext_filter($translated_text, $text, $domain) {
 			case 'Place order':
 			$translated_text = __('Pay now', 'woo-ger-law');
 			break;
-			case 'I&rsquo;ve read and accept the <a href="%s" class="woocommerce-terms-and-conditions-link">terms &amp; conditions</a>':
+			case 'I&rsquo;ve read and accept the <a href="%s" target="_blank" class="woocommerce-terms-and-conditions-link">terms &amp; conditions</a>':
 			$terms_page_id = wc_get_page_id('terms');
 			$cancellation_policy_page_id = get_option('woo_ger_law_cancellation_policy_page_id');
 			if (empty($cancellation_policy_page_id)) {
